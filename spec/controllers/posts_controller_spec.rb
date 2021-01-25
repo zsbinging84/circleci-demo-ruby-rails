@@ -29,7 +29,7 @@ RSpec.describe PostsController, type: :controller do
   # This should return the minimal set of attributes required to create a valid
   # Post. As you add validations to Post, be sure to
   # adjust the attributes here as well.
-  let(:valid_attributes) do
+  let(:valid_attributes) d
     {
       title: 'A new blog post',
       body: 'The body of the post'
